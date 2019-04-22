@@ -10,3 +10,11 @@ It is not meant to use for production; but it could if you like.
 ## Run Tests
 
 	rebar3 ct
+
+## Usage
+
+See file
+
+	test/templater_SUITE.erl
+
+for examples.
